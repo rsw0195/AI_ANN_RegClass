@@ -1,0 +1,1 @@
+Create a Regressor Artificial Neural Network (ANN) predicting the quality of red wine and a Classification ANN predicting the quality of white wine. Develop a write-up for both ANN models, with separate code. The red and white wine data will be provided (assumed data is collected from Kaggle).
